@@ -1,0 +1,6 @@
+{
+  "name": "MobCoins",
+  "main": "org.pirateislands.mobcoins.Main",
+  "version": "1.0-SNAPSHOT",
+  "description": "Mob Coins Plugin"
+}
